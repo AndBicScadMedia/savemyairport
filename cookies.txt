@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.savemyairport.dev	TRUE	/	FALSE	1999999999	SESSe87f16fa7e3d17c663aa839359422ca6	deleted
+
