@@ -1,7 +1,7 @@
 savemyairport
 =============
 
-Files for savemyairport.com site. Cloned from local copy of Drupal site using [httrack](http://www.httrack.com/).
+Files to create a static copy of the savemyairport.com site that was originally created in Drupal. The files in this repository were cloned from a local copy of the Drupal site using [httrack](http://www.httrack.com/).
 
 The easiest way to install httrack on a Mac is with Homebrew:
 
