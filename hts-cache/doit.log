@@ -1,5 +1,5 @@
 http://savemyairport.dev/ -O . -N %h%p/%n/index%[page].%t -WqQ%v -s0
-File generated automatically on Thu, 26 Dec 2013 05:04:38, do NOT edit
+File generated automatically on Fri, 27 Dec 2013 21:40:41, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
